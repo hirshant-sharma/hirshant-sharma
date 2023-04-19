@@ -16,7 +16,14 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 i'm currently working on Devops tools<br>
+- 🔭 I’m currently working on Devops
+- 🌱 I’m currently learning DevOps Tools
+- 👯 I’m looking to collaborate with senior Devops 
+- 🤔 I’m looking for help with senior Devops for Improving my skill's
+- 💬 Ask me about Automation and containerized application
+- 📫 How to reach me: hirshantsh@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: i am lazy but smart.<br>
 
 
 ## 🌐 Socials:
@@ -38,8 +45,7 @@ Here are some ideas to get you started:
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hirshant-sharma&limit=5&theme=dark&combine_all_yearly_contributions=true)
-### 😂 Random Dev Pic
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fs3.amazonaws.com%2Fmedia.eremedia.com%2Fuploads%2F2013%2F05%2F23151721%2FOctocat.jpg&tbnid=kmmbQmddcoMd9M&vet=10CBIQMyjYAWoXChMIoNfRzsG1_gIVAAAAAB0AAAAAEAQ..i&imgrefurl=https%3A%2F%2Fwww.sourcecon.com%2Fhow-to-find-almost-any-github-users-email-address%2F&docid=7Nl5GsDtPLFonM&w=800&h=665&q=github%20profile%20mem%20page&ved=0CBIQMyjYAWoXChMIoNfRzsG1_gIVAAAAAB0AAAAAEAQ" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hirshant-sharma&icon=0&color=12)](https://visitcount.itsvg.in)
