@@ -1,5 +1,5 @@
 ### Hi there👋, i'm Hirshant Sharma
-### Jr. DevOps Engineer
+### DevOps Engineer
 
 <!--
 **hirshant-sharma/hirshant-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
