@@ -6,10 +6,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Devops
+- 🔭 I’m currently working on DevOps
 - 🌱 I’m currently learning DevOps Tools
-- 👯 I’m looking to collaborate with senior Devops 
-- 🤔 I’m looking for help with senior Devops for Improving my skill's
+- 👯 I’m looking to collaborate with senior DevOps 
+- 🤔 I’m looking for help with senior DevOps for Improving my skills
 - 💬 Ask me about Automation and containerized application
 - 📫 How to reach me: hirshantsh@gmail.com
 - 😄 Pronouns: ...
@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with senior Devops for Improving my skill's
 - 💬 Ask me about Automation and containerized application
 - 📫 How to reach me: hirshantsh@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: i am lazy but smart.<br>
+- 😄 Pronouns: He/him/his
+- ⚡ Fun fact: I am lazy but smart.<br>
 
 
 ## 🌐 Socials:
